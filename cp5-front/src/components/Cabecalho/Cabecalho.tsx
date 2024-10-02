@@ -1,5 +1,7 @@
 export default function Cabecalho(){
-    <header>
-        
-    </header>
+    return(
+        <header>
+            <h1>cabeçalho</h1>
+        </header>
+    )
 }
