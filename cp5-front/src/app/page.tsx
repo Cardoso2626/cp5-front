@@ -1,7 +1,7 @@
 export default function Home(){
   return(
     <div>
-      <h1>Página principal</h1>
+      <h2>Worlds in Collision - Immanuel Velikovsky</h2>
     </div>
   )
 }
